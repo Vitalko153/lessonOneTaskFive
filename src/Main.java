@@ -16,6 +16,7 @@ public class Main {
             break;
             default: timeWork = 0;
         }
+
         if (timeWork == 0) {
             System.out.println("Ура! Сегодня выходной.");
         } else {
